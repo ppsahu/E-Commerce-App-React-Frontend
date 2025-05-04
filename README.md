@@ -75,10 +75,7 @@ Run the ECommerceProjectApplication.java file
 We welcome contributions! Fork the repo, create a feature branch, and submit a PR.
 
 ⭐ Don’t forget to star this repo if you found this project helpful!
-<<<<<<< HEAD
-=======
 
 🎬 Video Demo - 
 
 Link - https://drive.google.com/file/d/1ViY0_QcaGCdOpruDMlUsOL0LlatqiyVe/view?usp=sharing
->>>>>>> 28cac19 (update readme file)
